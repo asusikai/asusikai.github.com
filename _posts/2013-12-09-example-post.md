@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Example post
+title: 첫 포스트
 cover: cover.jpg
-date:   2013-12-09 12:00:00
+date:   2022-04-16 18:39:00
 categories: posts
 ---
 
